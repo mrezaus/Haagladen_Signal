@@ -1,5 +1,5 @@
 # Haagladen_Signal
-Signal Processing Assets for Haagladen Medisch Hospital Dataset.<br>
+Signal Processing Assets for Haaglanden Medisch Hospital Dataset.<br>
 This Project is about sleep analysis and staging sleep using heart signals.
 
 The results will be published as a scientific paper. (The paper is ready for submission)<br>
